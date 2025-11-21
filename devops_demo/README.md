@@ -1,0 +1,12 @@
+<!-- Version utiliser -->
+
+Django==5.2.5
+django-restframework==0.0.1
+djangorestframework==3.16.1
+djangorestframework_simplejwt==5.5.1
+mysqlclient==2.2.7
+
+<!-- Installation dependance -->
+pip install requirement.txt
+
+<!--  -->
